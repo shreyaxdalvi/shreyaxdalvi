@@ -1,0 +1,753 @@
+<svg viewBox="0 0 696.60 882.36" width="460" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ASCII portrait, typed line by line">
+<style>
+    @font-face {
+      font-family: 'RampMono';
+      src: url(data:font/woff2;base64,d09GMgABAAAAAAT4AA4AAAAACXwAAASmAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAAgQwRCAqIGIZQATYCJAM8CyAABCAFhCYHIBufByg+DNhkyEL73hCPSpDQcO3wJH4sGfunsjwyWl9JPDwv59e5byT3dCUxGbGVVBkrFc22Pz/Yvb5Avg8p5uFDuKQAJ2rXJGDr2rk2u/3qL2jONDcItMqJsqdHHkQYZ1BLICjLshaHF38jpGzByRmo+P4HQOeYM2ZolZP992Oz8jAPVbRBaEQykRJJYv8jYskk2ZbMs2byQnJNI82u76jTisLcwKzRs+J0BASKA0JIQggUVV27rK6D4ygUyg+5XECgqIbYsqndlc9wkXFoZMHV+dOQrN0KkLakIQD6aCfHKJBGR4BEEYNmOLN3ZwCPqi2T70/eR5pILHKI1DB9R235SMiH8nKE9lG5lgCVVcpRWG00DDxCWgbdnDwyOfFr4RI83f3pn5B77pWXLmhRGHSUVatSQBGFrjA5cioFCDX/Xx5EV4A4gsJfbsshOWmJAtJGsVk6FFtUz81fPEclE0OEGuOzxm59K5H9ols/7aInPnPLR8h80q1fvNjHj0SuWOaVpu1vJDto0N3P4ca0WIruec10j5fIdBv4RuYjI3Q1AD1MBu/L3JtsUR/SOXgQcfDWPHG3a++EnX7Q9pyIKCZzqPI+GoMx9NTtevqGDUTxAzfzruup2ODiLGCVoCwoSi8msMXdYskqMzgoQ455Hax4DLQP3/LW48iXi97R6o93eknQsu1aRPZB0S33yNyfSJEFMP8Q/F33xxpSVr4sIXn4PpVnViyyKaSBYoZtvbXt3o//oBJMVjRhUcK9xz39xF4H6csmzPQetVo32Nu5t5P6dOoeDc2cTZA+qCs0wjs7bmaaJXxphD3UXbi3ghnGu4bdMwR/2jvZZWllcPhCDV07tKPGa3JiAmoFXpEGL+o1eNIgO6zeI832cooKeznlevaYXgIuTeoq7rbeeOrqtziN1TIZYeUtjY0M1qxAV9TgIytCdRGXwd1U/+2qfyncOOcutjMt70LVg/4NXwzu5Kacd3WK6qh7iQ/hFI5Ym7LHikuP2VqHu6fh/6inD3t460ZdGLB7+sL0+R+Jsn07O/YeLuspc3b3hM7io53v3Uzs9KFmvY6eDlp74+95T6HOcNIYsbPQ1d9ObRkdbV+8nKr/KrZysH+tccCmXXtWzVu7dl6pScw8OoITQ+TowHQ3x7EtuzuGmqbNnkwQ9YbTtvgYVcDczVP+ESYe5QtvN3Rel97qnbkNFFIiDQGQcCStjwU5VbKQ+r3Kt+Zs59EV+v8J+f6DX99S7cmv+ynv9Df/A1BQAsH/4UtDGHquDYQBlfL7wQxgBAw+wgegAw22A7h7KCgXCEBe73GdECgVt8yyScEDnPmaRCHD9En5i+AeuSRUd1mSlPRVkk9b3yX5NY+6kgIGxORwBTWNI7pISFoiLSQgiISQEkMcgdrBh0fbUSP1SnMJictATEiIS0BMS0sI8/EgIXrMIwUlpGUg2IJIpKQMLRGRgBA35nluQh4JMSJHTe2xHb58ztXis3yx6rwolzSpooyYnM7Zi9PafBHBBtOPF0PyJM73cGeIWogc7kQ+Iunn+qJkQjBykm3rAgkhNYBcUUVAwbtTbpzrBnMM+uUmkgIB) format('woff2');
+    }
+    .row { font-family: 'RampMono', 'JetBrains Mono', 'Liberation Mono', 'DejaVu Sans Mono', 'Noto Sans Mono', monospace;
+             font-size: 12.9px; fill: #cfcfcf; white-space: pre; }
+    .cursor { fill: #7dd3fc; }
+  </style>
+<rect width="100%" height="100%" fill="#0d1117"/>
+<clipPath id="clip0">
+  <rect x="0" y="2.32" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.0s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip0)">
+  <text class="row" x="0" y="13.16">s#%###%%%%%%%%%%%#ssccss#%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%##ccss#%%%%##</text>
+  <rect class="cursor" y="4.64" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.0s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.0s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="0.5s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip1">
+  <rect x="0" y="17.80" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.09s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip1)">
+  <text class="row" x="0" y="28.64">%##s#%%%%%%%%%#ssccc###%%%%%%%%####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%####sss##%%%%</text>
+  <rect class="cursor" y="20.12" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.09s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.09s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="0.59s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip2">
+  <rect x="0" y="33.28" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.18s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip2)">
+  <text class="row" x="0" y="44.12">ssss%%%%%%%%#sc*ccs##%%%%%%%%%#c*cs#sccsssss#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#####sscccss#%%</text>
+  <rect class="cursor" y="35.60" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.18s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.18s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="0.6799999999999999s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip3">
+  <rect x="0" y="48.76" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.27s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip3)">
+  <text class="row" x="0" y="59.60">c*s%%%%%%%##s**s#%%%%%%%%%%###s*+***+*cc**css#%%%%%%%%%%%%%%%%##%%%%%%%%%%%#######scccccs#</text>
+  <rect class="cursor" y="51.08" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.27s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.27s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="0.77s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip4">
+  <rect x="0" y="64.24" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.36s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip4)">
+  <text class="row" x="0" y="75.08">*s%%%%%%%#sc*cs##%%%%%%###ssssc*+++++*cc*++*cs#%%%%%%%%%%%%%%%%##%%%%%%%%%%%##sss#s*++*+cs</text>
+  <rect class="cursor" y="66.56" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.36s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.36s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="0.86s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip5">
+  <rect x="0" y="79.72" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.45s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip5)">
+  <text class="row" x="0" y="90.56">s%%%%%%%scsss#%%%%%%%%##sssccc*+*+***++*cc****s####%%%%##%%%%%%%%%#%%%%%%%%####scc*ss**ccc</text>
+  <rect class="cursor" y="82.04" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.45s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.45s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="0.95s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip6">
+  <rect x="0" y="95.20" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.54s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip6)">
+  <text class="row" x="0" y="106.04">#%%%%%%##%%#ss##%%%###ss#scsscccc*++++++++++++c######%#%###%%%%%%%%%%%%%%%%#ssccccc**cccs#</text>
+  <rect class="cursor" y="97.52" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.54s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.54s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.04s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip7">
+  <rect x="0" y="110.68" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.63s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip7)">
+  <text class="row" x="0" y="121.52">##%%%%%%%%%########ssssssssccccccc**++**++====+c#########ss#####%%%%%%%%%%%##sc*++*c*cs#%%</text>
+  <rect class="cursor" y="113.00" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.63s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.63s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.13s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip8">
+  <rect x="0" y="126.16" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.72s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip8)">
+  <text class="row" x="0" y="137.00">ss####%%%%%##s##sssccccccccc***cc*******++=-===*sss#######s###scc####%%%####scc*++**cc####</text>
+  <rect class="cursor" y="128.48" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.72s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.72s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.22s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip9">
+  <rect x="0" y="141.64" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.81s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip9)">
+  <text class="row" x="0" y="152.48">ssss#%%%%%###%%##s#sccc*****************+==----=*csssss#s##s#%##sccssss####ss#sc***cs#%%%%</text>
+  <rect class="cursor" y="143.96" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.81s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.81s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.31s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip10">
+  <rect x="0" y="157.12" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.9s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip10)">
+  <text class="row" x="0" y="167.96">css*s#%%%%%%%%%#sssccc*+++==+++++++++++++=-:::``-+ccccs####ss###%#sccssssscc*cccsc*c####%%</text>
+  <rect class="cursor" y="159.44" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.9s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.9s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.4s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip11">
+  <rect x="0" y="172.60" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="0.99s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip11)">
+  <text class="row" x="0" y="183.44">s#scc#%%%%%%%%#sc**+++==+=====++++++++++=--:``..`-=**css#######s##%#cccs#ssscc*+*s##s###%%</text>
+  <rect class="cursor" y="174.92" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="0.99s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="0.99s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.49s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip12">
+  <rect x="0" y="188.08" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.08s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip12)">
+  <text class="row" x="0" y="198.92">###s*c#%%%%%%#sc++==============+++++++==--:``````--+*cs#ss######ss#%#ccssss#ssc*+++*s##%%</text>
+  <rect class="cursor" y="190.40" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.08s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.08s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.58s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip13">
+  <rect x="0" y="203.56" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.17s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip13)">
+  <text class="row" x="0" y="214.40">%%%#scc#%%%%%#s*+====-=============+++===--::`````:---=+cs#####ss#scs####sssss##sccccsss#%</text>
+  <rect class="cursor" y="205.88" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.17s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.17s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.67s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip14">
+  <rect x="0" y="219.04" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.26s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip14)">
+  <text class="row" x="0" y="229.88">%%%%#sc#%%%%%#sc+==---==============++===---::```..`::::-=c####ssss##scs##%##ssss##s####%%</text>
+  <rect class="cursor" y="221.36" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.26s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.26s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.76s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip15">
+  <rect x="0" y="234.52" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.35s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip15)">
+  <text class="row" x="0" y="245.36">%%%%%#c#%%%%%#sc*+=----====+========++===---::``..  ...`:-+c#%##%############%##sc*ccs#%%%</text>
+  <rect class="cursor" y="236.84" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.35s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.35s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.85s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip16">
+  <rect x="0" y="250.00" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.44s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip16)">
+  <text class="row" x="0" y="260.84">%%%%%%##%%%%%#sc*++======+++++===========---::``.. .`-+*ccc*+*cs#s###scs###########scss#%%</text>
+  <rect class="cursor" y="252.32" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.44s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.44s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="1.94s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip17">
+  <rect x="0" y="265.48" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.53s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip17)">
+  <text class="row" x="0" y="276.32">%%%%%%%#%%%%%#ssc*++=====+++++==========----::::-=*c####c+-``..`-*ccs######sss##ss#######%</text>
+  <rect class="cursor" y="267.80" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.53s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.53s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.0300000000000002s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip18">
+  <rect x="0" y="280.96" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.62s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip18)">
+  <text class="row" x="0" y="291.80">%%%%%%%##%%%%%#sc**+============---====------=+cs##%#s*+===------=+*cs##%%#####ssssssccs#%</text>
+  <rect class="cursor" y="283.28" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.62s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.62s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.12s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip19">
+  <rect x="0" y="296.44" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.71s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip19)">
+  <text class="row" x="0" y="307.28">%%%%%##%###%%%#ssc*+===------------------=+**ccs###sccccsssc***sssscccccccccsss#####ssssss</text>
+  <rect class="cursor" y="298.76" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.71s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.71s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.21s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip20">
+  <rect x="0" y="311.92" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.8s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip20)">
+  <text class="row" x="0" y="322.76">#%%%%%#ss#s#%%%#sc*+==----:::::::::-----=+*cssssssss###%%%%%%%%%%#%%#c+=---==++*******cccc</text>
+  <rect class="cursor" y="314.24" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.8s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.8s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.3s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip21">
+  <rect x="0" y="327.40" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.89s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip21)">
+  <text class="row" x="0" y="338.24">#s%%%%##sscss#%%sc*+==-------------------=+*cccccs#%%%%#*c%%%%%%c*s#c+-:::--=======+++**cc</text>
+  <rect class="cursor" y="329.72" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.89s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.89s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.3899999999999997s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip22">
+  <rect x="0" y="342.88" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="1.98s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip22)">
+  <text class="row" x="0" y="353.72">#cs#%%%#scs###%%%sc*+++******cc*++==-------=++*ccs#%%%c`.:c%%%%#cssc+=------=====++++**ccs</text>
+  <rect class="cursor" y="345.20" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="1.98s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="1.98s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.48s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip23">
+  <rect x="0" y="358.36" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.07s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip23)">
+  <text class="row" x="0" y="369.20">ccs#%%%#scs#%%%%%####%%##s######ssc**++=--:--=+*cc#%%c*=::-+ss****+=--------=++++++++*ccss</text>
+  <rect class="cursor" y="360.68" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.07s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.07s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.57s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip24">
+  <rect x="0" y="373.84" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.16s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip24)">
+  <text class="row" x="0" y="384.68">*c*s##%#cc*cs%%%%%%#c*+==+*ccc*ccs####sc+:..`:-=--c#######ssc**++=---===--===+++++++*ccsss</text>
+  <rect class="cursor" y="376.16" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.16s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.16s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.66s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip25">
+  <rect x="0" y="389.32" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.25s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip25)">
+  <text class="row" x="0" y="400.16">*c*#sc##c++*ss%%%%%s+==+csscssc**+++c#%#s=`.`:----==+*ccccc**+==--====----==+++++++***csss</text>
+  <rect class="cursor" y="391.64" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.25s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.25s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.75s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip26">
+  <rect x="0" y="404.80" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.34s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip26)">
+  <text class="row" x="0" y="415.64">cc*#ccs##c**ss#%%%%#c*c%%#s*%%%%%%*:-c#%#*-::-----=-----=======+++++=-:`:-=++++++++++*ccss</text>
+  <rect class="cursor" y="407.12" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.34s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.34s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.84s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip27">
+  <rect x="0" y="420.28" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.43s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip27)">
+  <text class="row" x="0" y="431.12">cccs*cc#%#s####%%%%%%#%%#*:`s%%%%#-:=*s%#c+---------------==+++++++--:``:=+++++++++++*cccc</text>
+  <rect class="cursor" y="422.60" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.43s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.43s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="2.93s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip28">
+  <rect x="0" y="435.76" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.52s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip28)">
+  <text class="row" x="0" y="446.60">s#sc*ccss#%%#%%%%%%%%%##%#c-.:+cc+--==s%#c+-----------:::-==+++==--:````:-=++**++++++*****</text>
+  <rect class="cursor" y="438.08" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.52s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.52s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.02s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip29">
+  <rect x="0" y="451.24" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.61s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip29)">
+  <text class="row" x="0" y="462.08">###ccsss*s%%%%%%%%%%%%%%%%#sccc+==---+s%%s*===========:`:-==++==-:``...`:-=+****++++++++**</text>
+  <rect class="cursor" y="453.56" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.61s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.61s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.11s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip30">
+  <rect x="0" y="466.72" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.7s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip30)">
+  <text class="row" x="0" y="477.56">%###s#s*cs%%%%%%%%%%%%%%####sc*==-:-+*s%%s*+=+++++*ccc*=-=+++++=-:`````:-=+*****+++====+*c</text>
+  <rect class="cursor" y="469.04" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.7s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.7s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.2s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip31">
+  <rect x="0" y="482.20" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.79s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip31)">
+  <text class="row" x="0" y="493.04">##%%%#*ccs%%%%%%%%%%%%%%sc***+==-:-==+s%%s*==--==+****ccc++*****+=--:--=++******+++==-=+*s</text>
+  <rect class="cursor" y="484.52" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.79s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.79s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.29s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip32">
+  <rect x="0" y="497.68" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.88s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip32)">
+  <text class="row" x="0" y="508.52">s#%%#ssc*#%%%%%%%%%%#%%%#sc*+=--------c%#c+-`..:::::-=+*c*===+****++=+++*******+++==--+cs#</text>
+  <rect class="cursor" y="500.00" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.88s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.88s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.38s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip33">
+  <rect x="0" y="513.16" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="2.97s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip33)">
+  <text class="row" x="0" y="524.00">:+%%#sc*c%%%%%%%%%##ss%%%#sc*+==--::::s%#c+-``:-=+**cccc*-:::-==+***********++++===--=+*s#</text>
+  <rect class="cursor" y="515.48" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="2.97s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="2.97s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.47s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip34">
+  <rect x="0" y="528.64" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.06s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip34)">
+  <text class="row" x="0" y="539.48">.+%%#ccs#%%%%%%%%sccss#%%%#sc*+==-:``:#%##sc*+++*=:::----:------==+****+++++++===----=+s##</text>
+  <rect class="cursor" y="530.96" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.06s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.06s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.56s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip35">
+  <rect x="0" y="544.12" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.15s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip35)">
+  <text class="row" x="0" y="554.96">`c#ccss#%%%%%%%%%sccs##%%%%#sc*+=-:``.:*sc*s##c+++=-----========-==+***++=+=====-----=*s##</text>
+  <rect class="cursor" y="546.44" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.15s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.15s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.65s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip36">
+  <rect x="0" y="559.60" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.24s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip36)">
+  <text class="row" x="0" y="570.44">*#sccs####%%%%%%#cscs%%%%%%%#sc*+=-:`..`-=+css+==*cc*+++=++***+**c###sc*+======-=--:=+c##%</text>
+  <rect class="cursor" y="561.92" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.24s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.24s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.74s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip37">
+  <rect x="0" y="575.08" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.33s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip37)">
+  <text class="row" x="0" y="585.92">s#ss###%%%%%%%%%scss#%%%%%%%%%#sc+==:``:+*c#####ssssscccs###%%%%%###c**++++=====----=+s##%</text>
+  <rect class="cursor" y="577.40" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.33s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.33s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.83s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip38">
+  <rect x="0" y="590.56" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.42s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip38)">
+  <text class="row" x="0" y="601.40">#%##%%%%%%%%%%##ccs#%%%%%%%%%%%#sc*+=-:-*s%%########sss*+=+cc#####s+=---=++=====-=-=+*s##%</text>
+  <rect class="cursor" y="592.88" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.42s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.42s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="3.92s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip39">
+  <rect x="0" y="606.04" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.51s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip39)">
+  <text class="row" x="0" y="616.88">csc#%%%%s#%###s#sss#%%%%%%%%%%%%%#sc*+=+s%%%%%%%#*+`  .-=*ssc*cccc+::``:-==========+*cs#%%</text>
+  <rect class="cursor" y="608.36" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.51s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.51s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.01s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip40">
+  <rect x="0" y="621.52" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.6s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip40)">
+  <text class="row" x="0" y="632.36">ccs#%%%%s#####s###s#%%%%%%%%%%%%%%%#sc**c#%%%%##%#c+++cs#sc++css*=:```::---=====+++*css#%%</text>
+  <rect class="cursor" y="623.84" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.6s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.6s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.1s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip41">
+  <rect x="0" y="637.00" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.69s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip41)">
+  <text class="row" x="0" y="647.84">c*##%%%#s##s#s#%%%#%%%%%%%%%%%%%%%%%%#sc*+==*#%%##c*++*cccccssc+-:`````::--==++++***s#%%%%</text>
+  <rect class="cursor" y="639.32" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.69s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.69s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.1899999999999995s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip42">
+  <rect x="0" y="652.48" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.78s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip42)">
+  <text class="row" x="0" y="663.32">cc##%%######s#%%%%%%%%%%%%%%%%%%%%%%%%%#c+--+s%%#s*+++*css##sc+=:``..``::--=+++***cs##%%%%</text>
+  <rect class="cursor" y="654.80" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.78s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.78s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.279999999999999s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip43">
+  <rect x="0" y="667.96" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.87s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip43)">
+  <text class="row" x="0" y="678.80">cs##%%#ss#####%%%%%%%%%%%%%%%%%%%%##%%%%%sc++*s#%###sss#sscc*=-:`.....`:--==+***cs#####%%#</text>
+  <rect class="cursor" y="670.28" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.87s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.87s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.37s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip44">
+  <rect x="0" y="683.44" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="3.96s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip44)">
+  <text class="row" x="0" y="694.28">#####%#s#####%%%%%%%%%%%%%%%%%%%%%%##%%%%%%#scccccscc*+===-=-:``.  ...`:-=++**cs%%%##s%###</text>
+  <rect class="cursor" y="685.76" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="3.96s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="3.96s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.46s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip45">
+  <rect x="0" y="698.92" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.05s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip45)">
+  <text class="row" x="0" y="709.76">###s####%####%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%##sc*+=----=----::.. ...`:-=+*css#%%%%ssss#ss</text>
+  <rect class="cursor" y="701.24" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.05s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.05s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.55s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip46">
+  <rect x="0" y="714.40" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.14s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip46)">
+  <text class="row" x="0" y="725.24">cs##########%%%%%%%%%%%%%%%%%%%#s#%##%%##%%%%%%%##c+=========--:::::-==+*cs####%%%#sss###c</text>
+  <rect class="cursor" y="716.72" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.14s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.14s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.64s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip47">
+  <rect x="0" y="729.88" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.23s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip47)">
+  <text class="row" x="0" y="740.72">*c##%#s####%%%%%%%%%%%%%%%%%%%%%#s#%%%##s%%%%%%%%%%sc*++++++++++++++**ccccs####%%%%####%#s</text>
+  <rect class="cursor" y="732.20" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.23s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.23s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.73s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip48">
+  <rect x="0" y="745.36" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.32s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip48)">
+  <text class="row" x="0" y="756.20">*s##%#s##%%%%%%%%%%%%%%%%%%%####%###%%#ss%%##%%%%%%%%#scc****cccccssssssss#%%%%%%%%%%%%%##</text>
+  <rect class="cursor" y="747.68" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.32s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.32s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.82s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip49">
+  <rect x="0" y="760.84" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.41s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip49)">
+  <text class="row" x="0" y="771.68">c###%ss##%%%%%%%%%%%%%%%%%%##sss##%%%%#s#%%##%%%%%%%%%%%%######%%%##ss####%%%%%%%%%%%%%%%%</text>
+  <rect class="cursor" y="763.16" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.41s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.41s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="4.91s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip50">
+  <rect x="0" y="776.32" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.5s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip50)">
+  <text class="row" x="0" y="787.16">c%%%%s#%%%%%%%%%%%%%%%%%%%%#sscc##%%%##s#%%##%#%%%%%%%%%%%%%%%%%%%%#####%%%%%%%%%%%%%%%%%%</text>
+  <rect class="cursor" y="778.64" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.5s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.5s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.0s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip51">
+  <rect x="0" y="791.80" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.59s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip51)">
+  <text class="row" x="0" y="802.64">c%%##s#%%%%%%%%%%%%%%%%%##%%scccs#%%%#ss#%%####%%%%%%%%%%%%%%%%%%%%##s##%%#####%%%%%%%%%%%</text>
+  <rect class="cursor" y="794.12" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.59s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.59s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.09s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip52">
+  <rect x="0" y="807.28" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.68s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip52)">
+  <text class="row" x="0" y="818.12">s%%%###%%%%%%%%%%%%%%%%%%ss%%#s*ss#%%#s#######%%%%%%%%%%%%%%%%%%%%%%##########%%%%%%%%%%%%</text>
+  <rect class="cursor" y="809.60" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.68s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.68s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.18s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip53">
+  <rect x="0" y="822.76" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.77s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip53)">
+  <text class="row" x="0" y="833.60">s#%%%%%%%%####%%%%%%%%%%#######scsc%#c#%#s####%%%%%%%%%%%%%%%%%%%%%%###ssss#%%%###########</text>
+  <rect class="cursor" y="825.08" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.77s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.77s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.27s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip54">
+  <rect x="0" y="838.24" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.86s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip54)">
+  <text class="row" x="0" y="849.08">s#%%%%%%####s#%%%%%%%%%%#s##%##%sss#ss######%%%%%%%%%%%%%%%%%%########ssss###sc**+*ccss**c</text>
+  <rect class="cursor" y="840.56" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.86s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.86s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.36s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip55">
+  <rect x="0" y="853.72" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="4.95s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip55)">
+  <text class="row" x="0" y="864.56">#%%%%%%#s###c#####%%%###scc#%#s##s#css#%##%%%%%%%%%%%%%%%%%%%#%%%#ss##%%##sc**cccssc*+*cs#</text>
+  <rect class="cursor" y="856.04" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="4.95s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="4.95s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.45s" fill="freeze"/>
+  </rect>
+</g>
+<clipPath id="clip56">
+  <rect x="0" y="869.20" width="0" height="15.48">
+    <animate attributeName="width" from="0" to="712.08" begin="5.04s" dur="0.5s" fill="freeze" calcMode="linear"/>
+  </rect>
+</clipPath>
+<g clip-path="url(#clip56)">
+  <text class="row" x="0" y="880.04">%%%%%%%###ss##csss#s##sccc*s%%ss###css%%#%%%%%%%%%%%%%%%%%%%%####%%%%%%##s#s#####c+*s#%%%%</text>
+  <rect class="cursor" y="871.52" width="4.26" height="10.06" opacity="0">
+    <animate attributeName="x" from="0" to="704.34" begin="5.04s" dur="0.5s" fill="freeze" calcMode="linear"/>
+    <set attributeName="opacity" to="1" begin="5.04s" dur="0.5s" fill="freeze"/>
+    <set attributeName="opacity" to="0" begin="5.54s" fill="freeze"/>
+  </rect>
+</g>
+</svg>

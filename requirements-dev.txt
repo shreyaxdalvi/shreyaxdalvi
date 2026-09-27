@@ -1,0 +1,11 @@
+# Only needed to regenerate assets/portrait.svg locally when you swap photos.
+# The nightly stats workflow (scripts/generate_stats.py) uses the Python
+# standard library only -- nothing here is installed in CI.
+
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime
+fonttools
+brotli

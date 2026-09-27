@@ -1,0 +1,12 @@
+<svg viewBox="0 0 900 34" width="100%" height="34"
+     xmlns="http://www.w3.org/2000/svg" role="img" aria-label="top languages section heading">
+  <style>
+    @font-face {
+      font-family: 'HeadMono';
+      src: url(data:font/woff2;base64,d09GMgABAAAAAASEAA4AAAAACHwAAAQxAAJN0wAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAAZBEICoZkhWsBNgIkAxoLGgAEIAWEJgcgG/AGEVWcYICfg3FD3yxKRFmitDpX6mJcrpXLtTKZDG2KxQ87HsK13jeTPUoKSEICs68luWfLQpKQ35aMIVclcP7trL+iIg5WTDzhTLyEyquF6t5V0Lo7qRTyfx0gcoa/5uuicCJpm9iMRxVvt+h3t2q7oyVFA6VPBxRJxVX/YwF9neDXOWY4tbbcMPAAtfULBGYBUghVCFSrrBGHjxaLgKMO/gsIVFtsk5jh3B8+aK4FgUiyUV1ejzdgQD6TIoBTfXHcRQoISCaYeFh58iAAvlrnUfnz74jbGam4PXJLXgDWGSJRsEgRFd85D5jHQUH+/QEDk2r1Wv7Tsms1vdf27di2bs1KgcEQtmAuUWehy+gCsYl4SoZ0BJKTg5zUyLaqBU7C5rgvbiOTFnmLn53E9PRHa1fS+dmDVVXc7fmxrFHfHl19fhpRnz3RP30AlTXZvtA3ZumPW/radnR0c3ZMT2D8R65Ee/5cd83UVPHp65tV6/qjerMhgZWZ62ZjAqXG7F3cnda0wYp8iGwowJoMOUh/dNVFzRUjqz5gakMVkybgmD6DyV0EWv+wNeLjmEok90/8yXMK1M1HFUd4oM8RHztQpaNtnMRWMyl5xUrL11QIn3n0eyJuqVOXkNOKKpKpl1KqWihfvTBbqFak1FdqJJ1yvXWjmJVZhJTw6SX7qfrU9HtSJnhrs2nQ9PDlcFhLpqogQkbh5uSySFC8FnPMbio/KQKhB5BcLhfJhcH+jGArQ5RGspLb1JdQ2GK8St2sxmvE7BJ6vbVGHi80auWesQx+Ds/CK/wMJg9m9DA+C3SfkIhyv9wVBPKjJZGXBEC5BbNYGYvYfCFukDViBJ+H0BhQDqQGKSNdc5O519LUqNevbkuvWZNGlLERGFqECGWzUEF6XBIoZi4wi5WhjMMT4tWaAw1eI+SVcfU2Vt37bd9/o2+zf9GhHN4qr3xr4DdS6gXFWDyWlUqqSsyDHNcWt3GL+flEhTS1XF/KV4TGJaWmM2NZeTM+Uz7zJXqREugOV5Qi6K5gdwvbeiF4gYZah+wLQPJE01CPqzE1h59LZ0C5nPkQvKkeAAjkmefyjSeXNR6cr44eNu8Bfr03dpxrzcM//9Xn304LgKG0VP6w5ryOYP1XtBHY/xUpAxiUiEw4JRElsQwYIDArrqs1xt4aFEJHbkoFnRPgIzA4YZXbnDTHT06x21tOZ1dEcwYuR+l+QzviEKpOvQ6NLEzMmkUiyVxhJJGWbNAVTtgMQQriLGo1wRJ1ErkOlmvshEoGOj4mwlo0M6vTCA0SfcNm9ZpslgwZTCyod2tBSKdTp0aGSMX16titJ2UGBQxVtEU1XCOSIFkmCna3CLbvBmn2pVOjyIFJGN4bWDD1kbFB5HfAjPAvhNUxE2ie+FZZ0jFWMkWQLg2Vvl+EpGxtNphk/w1IgAAAAA==) format('woff2');
+    }
+    text { font-family: 'HeadMono','Liberation Mono',monospace; font-size: 15px; fill: #e6edf3; }
+  </style>
+  <text x="0" y="22">top languages</text>
+  <line x1="141" y1="17" x2="900" y2="17" stroke="#30363d" stroke-width="1"/>
+</svg>

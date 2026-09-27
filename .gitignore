@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# local scratch renders when iterating on the portrait
+assets/*_preview.png
+assets/*_check*.png
