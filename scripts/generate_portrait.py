@@ -49,9 +49,20 @@ def to_ascii_grid(img: Image.Image, cols: int):
     # resize down to the character grid
     small = cv2.resize(gray, (cols, rows), interpolation=cv2.INTER_AREA)
 
-    # darkening curve (v/255)^1.7 -- keeps glasses/brows/lips from washing out
-    curved = np.power(small.astype(np.float64) / 255.0, 1.7) * 255.0
-    curved = curved.astype(np.uint8)
+    # Percentile-based contrast stretch, not a blind darkening curve.
+    # The darkening curve (v/255)^1.7 from the original guide assumes a
+    # bright white background that needs pushing further toward blank while
+    # the face stays legible. That assumption breaks on a tight face-only
+    # crop with no background at all: applying it there just crushes the
+    # whole face toward black instead of separating face from hair, which
+    # is why an earlier version of this render looked like a uniform dark
+    # blob instead of a face. Stretching the 2nd-98th percentile range to
+    # fill 0-255 spreads facial midtones across the ramp regardless of
+    # whether a background is present.
+    p2, p98 = np.percentile(small, [2, 98])
+    curved = np.clip(
+        (small.astype(np.float64) - p2) / max(p98 - p2, 1) * 255, 0, 255
+    ).astype(np.uint8)
 
     return curved, cols, rows
 
